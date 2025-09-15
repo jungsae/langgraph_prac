@@ -1,3 +1,4 @@
 .env
 documents/
 income_tax_collection/
+__pycache__
